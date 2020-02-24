@@ -40,3 +40,7 @@ hr.horizontal{
     margin: 0;
     padding:0;
 }
+.hey > h4 small{
+    color:rgb(226, 196, 24);
+    font-weight: bold;
+}
